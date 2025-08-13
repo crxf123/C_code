@@ -1,0 +1,2 @@
+﻿  test.c
+D:\vs2019\code\text_1\text_1\test.c(16,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
